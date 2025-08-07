@@ -522,13 +522,18 @@ input:hover {
     .right {
 position: relative;
 height: 50px;
-left: 24px;   
+left: 50px;   
+  }
+  .hero2{
+    position: relative;
+    /* bottom: 160px; */
+    top: 10px;
   }
     .left{
         width: 200px;
         position: relative;
         bottom: 30px;
-        left:45px;
+        left:75px;
     }
     .ft{
         height: 500px;
