@@ -59,6 +59,11 @@ display: none;
 
 
 }
+.text3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 a {
     text-decoration: none;
@@ -522,18 +527,18 @@ input:hover {
     .right {
 position: relative;
 height: 50px;
-left: 50px;   
+left: 70px;   
   }
   .hero2{
     position: relative;
     /* bottom: 160px; */
-    top: 10px;
+    top: 80px;
   }
     .left{
         width: 200px;
         position: relative;
         bottom: 30px;
-        left:75px;
+        left:85px;
     }
     .ft{
         height: 500px;
