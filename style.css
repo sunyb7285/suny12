@@ -5,7 +5,7 @@
 }
 
 body {
-     background-color: #ffffffcc;
+     background-color: #bb9d9dcc;
     color: #1A1A1A;
 
 
@@ -216,7 +216,7 @@ main{
 }
 
 .ft {
-    background-color: aqua;
+    background-color: slategrey;
     width: 100%;
     height: 350px;
 
@@ -532,7 +532,7 @@ left: 85px;
   .hero2{
     position: relative;
     /* bottom: 160px; */
-    top: 100px;
+    top:185px;
   }
     .left{
         width: 200px;
